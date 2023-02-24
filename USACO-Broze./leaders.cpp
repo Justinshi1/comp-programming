@@ -1,3 +1,5 @@
+//2023 january problem 1
+
 #include <iostream>
 using namespace std;
 //first generate string array for all cows 
